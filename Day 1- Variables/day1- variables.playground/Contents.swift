@@ -32,7 +32,7 @@ var str3 = "Your score was \(score)"
 */
 let taylor = "swift"
 
-//Type annotations
+// Type annotations
 /* Swift assigns each variable and constant a type based on what value it’s given when it’s created. So, when you write code like this Swift can see it holds a string.
 
  That will make str a string, so you can’t try to assign it an integer or a boolean later on. This is called type inference
@@ -44,7 +44,7 @@ let year: Int = 1989
 let height: Double = 1.78
 let taylorRocks: Bool = true
 
-//Note / Summary
+// Note / Summary
 /*
  
  1- You make variables using var and constants using let. It’s preferable to use constants as often as possible.
